@@ -55,6 +55,3 @@ class Cliente(Entidad):
 
 
 # ============= SERVICIO ABSTRACTO ============
-
-
-
